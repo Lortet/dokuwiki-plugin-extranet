@@ -1,0 +1,6 @@
+base   extranet
+author Valentin LORTET
+email  valentin@lortet.io
+date   2023-01-15
+name   Extranet
+desc   Hide some pages and disable actions from extranet ip
